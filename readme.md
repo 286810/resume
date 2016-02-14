@@ -30,7 +30,9 @@ Tags: resume
 ###牛油果
 - 介绍： 一款关于境外旅游的app，运营模式为C2C。注册的用户既可以成为导游，出卖自己的时间和服务，又可以变为游客，享受他人提供的服务。
 - 职责： 全程参与了产品的前期设计并提出相应的建议，独立负责前端的开发任务
-- 地址： 
+- 微信版： ![](http://zgygt.com/kl/niu/apk/niu_wx.png)
+- android版： ![](http://zgygt.com/kl/niu/apk/niu.png)
+- 注：由于服务器不稳定，可能会有bug
 
 ###Tower Defence
 
@@ -52,8 +54,10 @@ Tags: resume
 
 ##自我评价
 - 偶像： Nicholas C. Zakas、Douglas Crockford
-- 追星：John Resig
-- 希望有一天能像 John Resig 一样写出一个风靡全球的 jQuery，梦想还是要有的，万一实现了呢！
+- 追星：Misko Hevery、John Resig
+- 希望有一天能像 Misko Hevery 一样写出一个风靡全球的 Angular，梦想还是要有的，万一实现了呢！
+- 喜欢在篮球场上筋疲力尽的感觉
+- NBA2K15
 
 
 
