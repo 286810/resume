@@ -46,9 +46,11 @@ Tags: resume
 ###ionic_seed_kl
 - 一个具有登录、注册、主页等等公共模块的 ionic 种子项目，目的是为了减少重复性工作，提高开发效率
 - [点我点我点我](https://github.com/286810/ionic_seed_kl)
+
 ###jQuery-sound-code
 - jQuery源码分析
 - [看这里看这里看这里](https://github.com/286810/jQuery-sound-code)
+
 ###build-your-own-angular
 - 迷你版的 Angular
 - [戳我戳我戳我]()
