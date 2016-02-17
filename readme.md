@@ -32,13 +32,26 @@ Tags: resume
 - 职责： 全程参与了产品的前期设计并提出相应的建议，独立负责前端的开发任务
 - 微信版： ![](http://zgygt.com/kl/niu/apk/niu_wx.png)
 - android版： ![](http://zgygt.com/kl/niu/apk/niu.png)
+- ios版敬请期待
 - 注：由于服务器不稳定，可能会有bug
 
-###Tower Defence
+###Super marry
 
 - 介绍： 一款塔防类的Html5小游戏。类似保卫萝卜，有不同类型的武器装备和怪物。
 - 职责： 独立开发武器等级系统和怪物等级系统
-- 地址： 
+- 地址： [Web版](http://supermarry.applinzi.com)
+- 其他版本敬请期待
+
+##开源项目
+###ionic_seed_kl
+- 一个具有登录、注册、主页等等公共模块的 ionic 种子项目，目的是为了减少重复性工作，提高开发效率
+- [点我点我点我](https://github.com/286810/ionic_seed_kl)
+###jQuery-sound-code
+- jQuery源码分析
+- [看这里看这里看这里](https://github.com/286810/jQuery-sound-code)
+###build-your-own-angular
+- 迷你版的 Angular
+- [戳我戳我戳我]()
 
 ##技能清单
 - 用 ionic 开发 ios 风格的前端页面
@@ -55,7 +68,7 @@ Tags: resume
 ##自我评价
 - 偶像： Nicholas C. Zakas、Douglas Crockford
 - 追星：Misko Hevery、John Resig
-- 希望有一天能像 Misko Hevery 一样写出一个风靡全球的 Angular，梦想还是要有的，万一实现了呢！
+- 希望有一天能像 Misko Hevery 或 John Resig 一样写出一个风靡全球的 Angular 或 jQuery，梦想还是要有的，万一实现了呢！
 - 喜欢在篮球场上筋疲力尽的感觉
 - NBA2K15
 
