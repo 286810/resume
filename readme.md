@@ -52,9 +52,11 @@ Tags: resume
 - jQuery源码分析
 - [看这里看这里看这里](https://github.com/286810/jQuery-sound-code)
 
-###build-your-own-angular
-- 迷你版的 Angular
+<!--
+###build-your-own-vue
+- 迷你版的 vue
 - [戳我戳我戳我]()
+-->
 
 ##技能清单
 - 用 ionic 开发 ios 风格的前端页面及 app
@@ -67,7 +69,7 @@ Tags: resume
 - cordova 的几十种原生插件，如音视频、照相机等等
 - 用 nodejs 爬取数据
 - 与 Java、php 等后台传输数据的解析及转化（XML/JSON）
-- 在微信平台开发中使用 php 的 laravel 框架
+- 在微信平台开发中使用 php 的 TP、laravel 框架
 
 ##关于我
 - 偶像： Nicholas C. Zakas、Douglas Crockford
