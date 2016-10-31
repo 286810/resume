@@ -28,12 +28,11 @@ Tags: resume
 | 2013/6-2014/2 | 北京掌上彩虹有限责任公司 |
 
 ##项目经验
-###Super marry
+###看车玩车
 
-- 介绍： 一款塔防类的Html5小游戏。类似保卫萝卜，有不同类型的武器装备和怪物。
-- 职责： 独立开发武器等级系统和怪物等级系统
+- 介绍： 一个互联网+类型的项目。用微信把传统的会展企业从线下转到线上，再把线上的用户引流到线下进行变现，主要是关于车展行业。
+- 职责： 全程参与了产品的前期设计并提出相应的建议，独立负责前端的开发任务
 - 微信版： ![](/kcwc.png)
-- 地址： [Web版](http://www.51kcwc.com/index/index/switchVehicle)
 - 其他版本敬请期待
 
 ###牛油果
@@ -42,14 +41,14 @@ Tags: resume
 - 微信版： ![](http://zgygt.com/kl/niu/apk/niu_wx.png)
 - android版： ![](http://zgygt.com/kl/niu/apk/niu.png)
 - ios版敬请期待
-- 注：由于服务器不稳定，可能会有bug
+- 注：由于服务器不稳定，可能会访问失败
 
 ##开源项目
 ###ionic_seed_kl
 - 一个具有登录、注册、主页等等公共模块的 ionic 种子项目，目的是为了减少重复性工作，提高开发效率
 - [点我点我点我](https://github.com/286810/ionic_seed_kl)
 
-###jQuery-sound-code
+###jQuery-source-code
 - jQuery源码分析
 - [看这里看这里看这里](https://github.com/286810/jQuery-sound-code)
 
@@ -58,14 +57,15 @@ Tags: resume
 - [戳我戳我戳我]()
 
 ##技能清单
-- 用 ionic 开发 ios 风格的前端页面
-- 用 angularJS 开发 SPA
-- 用 cordova + ionic + angularJS 开发跨 android、ios 等多平台的 app
+- 用 ionic 开发 ios 风格的前端页面及 app
+- 用 vue 、angularJS 开发 SPA
+- 用 cordova + ionic + angularJS(vue) 开发跨 android、ios 等多平台的 app
 - 整合第三方推送，如极光
 - 整合百度、高德和Google地图
 - 整合微信、微博、QQ第三方登录
 - cordova 白名单机制
 - cordova 的几十种原生插件，如音视频、照相机等等
+- 用 nodejs 爬取数据
 - 与 Java、php 等后台传输数据的解析及转化（XML/JSON）
 - 在微信平台开发中使用 php 的 laravel 框架
 
