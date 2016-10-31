@@ -32,7 +32,7 @@ Tags: resume
 
 - 介绍： 一款塔防类的Html5小游戏。类似保卫萝卜，有不同类型的武器装备和怪物。
 - 职责： 独立开发武器等级系统和怪物等级系统
-- 微信版： ![](http://zgygt.com/kl/niu/apk/niu_wx.png)
+- 微信版： ![](/kcwc.png)
 - 地址： [Web版](http://www.51kcwc.com/index/index/switchVehicle)
 - 其他版本敬请期待
 
