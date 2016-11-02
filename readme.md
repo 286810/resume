@@ -36,8 +36,8 @@
 ###牛油果
 - 介绍： 一款关于境外旅游的app，运营模式为C2C。注册的用户既可以成为导游，出卖自己的时间和服务，又可以变为游客，享受他人提供的服务。
 - 职责： 全程参与了产品的前期设计并提出相应的建议，独立负责前端的开发任务
-- 微信版： ![](http://zgygt.com/kl/niu/apk/niu_wx.png)
-- android版： ![](http://zgygt.com/kl/niu/apk/niu.png)
+- 微信版： ![](https://github.com/286810/resume/blob/master/niu.png)
+- android版： ![](https://github.com/286810/resume/blob/master/niu-apk.png)
 - ios版敬请期待
 - 注：由于服务器不稳定，可能会访问失败
 
