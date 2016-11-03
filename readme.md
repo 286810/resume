@@ -66,6 +66,7 @@
 - cordova 白名单机制
 - cordova 的几十种原生插件，如音视频、照相机等等
 - 用 nodejs 爬取数据
+- 勇于尝试新技术如 ES6、7
 - 与 Java、php 等后台传输数据的解析及转化（XML/JSON）
 - 在微信平台开发中使用 php 的 TP、laravel 框架
 
