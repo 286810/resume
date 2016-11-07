@@ -13,7 +13,6 @@
 |  key  |  value  |
 | :----: | :----: |
 | 性别 | 男 |
-|出生年月 | 1987/12/10 |
 | 工作年限 | 三年 |
 | 技术博客 | http://www.cnblogs.com/kuangliu/ |
 | Github | https://github.com/286810 |
