@@ -71,8 +71,8 @@
 - 在微信平台开发中使用 php 的 TP、laravel 框架
 
 ##关于我
-- 偶像： Nicholas C. Zakas、Douglas Crockford
-- 追星：Misko Hevery、John Resig
+- 偶像： Nicholas C. Zakas、Douglas Crockford、Misko Hevery、John Resig
+- 目标：全栈
 - 希望有一天能像 Misko Hevery 或 John Resig 一样写出一个风靡全球的 Angular 或 jQuery，梦想还是要有的，万一实现了呢！
 - 喜欢在篮球场上筋疲力尽的感觉
 - NBA2K15
