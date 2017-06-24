@@ -16,7 +16,7 @@
 | 性别 | 男 |
 | 工作年限 | 三年半 |
 | 技术博客 | http://www.cnblogs.com/kuangliu/ |
-| Github | https://github.com/286810 |
+<!-- | Github | https://github.com/286810 | -->
 
 ## 工作经历
 
