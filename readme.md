@@ -57,6 +57,12 @@
 
 ## 技能清单
 
+- 深刻理解 web 语义化
+- 熟练掌握移动端布局
+- 熟练掌握 CSS3 的新特性，如动画等
+- 熟练掌握 HTML5 的新特性，如 localStorage 等
+- 深入理解 vue 数据绑定原理，能自己动手实现一个类似的 MVVM 框架
+- 勇于尝试新技术如 ES6、7
 - 用 vue 、angularJS 开发 SPA
 - 用 ionic 开发 ios 风格的前端页面及 app
 - 用 cordova + ionic + angularJS(vue) 开发跨 android、ios 等多平台的 app
@@ -66,7 +72,6 @@
 - cordova 白名单机制
 - cordova 的几十种原生插件，如音视频、照相机等等
 - 用 nodejs 爬取数据
-- 勇于尝试新技术如 ES6、7
 - 与 Java、php 等后台传输数据的解析及转化（XML/JSON）
 
 ## 关于我
