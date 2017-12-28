@@ -6,7 +6,7 @@
 |  key  |  value  |
 | :----: | :----: |
 | Tel | 176****1586 |
-| Email | j286810@163.com |
+| Email | j240675@163.com |
 | 微信号 | kl07231538 |
 
 ## 个人信息
@@ -14,7 +14,7 @@
 |  key  |  value  |
 | :----: | :----: |
 | 性别 | 男 |
-| 工作年限 | 三年半 |
+| 工作年限 | 四年 |
 | 技术博客 | http://www.cnblogs.com/kuangliu/ |
 <!-- | Github | https://github.com/286810 | -->
 
@@ -63,19 +63,13 @@
 - 熟练掌握 HTML5 的新特性，如 localStorage 等
 - 深入理解 vue 数据绑定原理，能自己动手实现一个类似的 MVVM 框架
 - 勇于尝试新技术如 ES6、7
-- 用 vue 、angularJS 开发 SPA
-- 用 ionic 开发 ios 风格的前端页面及 app
 - 用 cordova + ionic + angularJS(vue) 开发跨 android、ios 等多平台的 app
-- 整合第三方推送，如极光
-- 整合百度、高德和Google地图
-- 整合微信、微博、QQ第三方登录
-- cordova 白名单机制
-- cordova 的几十种原生插件，如音视频、照相机等等
 - 用 nodejs 爬取数据
 - 与 Java、php 等后台传输数据的解析及转化（XML/JSON）
 
 ## 关于我
 
-- 学：Nicholas C. Zakas、John Resig、Evan You
-- 打：篮球
-- 玩：NBA2K15
+<!-- - 学：Nicholas C. Zakas、John Resig、Evan You -->
+- 吃饭
+- 睡觉
+- 打2K
