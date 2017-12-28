@@ -65,7 +65,6 @@
 - 勇于尝试新技术如 ES6、7
 - 用 cordova + ionic + angularJS(vue) 开发跨 android、ios 等多平台的 app
 - 用 nodejs 爬取数据
-- 与 Java、php 等后台传输数据的解析及转化（XML/JSON）
 
 ## 关于我
 
