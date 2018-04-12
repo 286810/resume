@@ -61,8 +61,8 @@
     - 使用 WebSocket 实现客服通讯功能
     - 整合第三方平台实现推送功能
 
-- 微信版： ![](https://github.com/286810/resume/blob/master/niu.png)
-- android版： ![](https://github.com/286810/resume/blob/master/niu-apk.png)
+<!-- - 微信版： ![](https://github.com/286810/resume/blob/master/niu.png)
+- android版： ![](https://github.com/286810/resume/blob/master/niu-apk.png) -->
 
 <!--
 ##个人项目
